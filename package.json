@@ -1,0 +1,21 @@
+{
+  "name": "project-akhir-backend",
+  "version": "1.0.0",
+  "description": "Project Akhir Backend GDSC",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon app",
+    "start": "node app"
+  },
+  "author": "Iwaa Kusumah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "ua-parser-js": "^1.0.37"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
