@@ -39,5 +39,5 @@ $ npm install
 ```
 ```bash
 # Menjalankan aplikasi
-$ npm start
+$ npm run dev
 ```
